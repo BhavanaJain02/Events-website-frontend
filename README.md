@@ -1,6 +1,7 @@
  # Events-website-frontend
 
-Demo of events page: http://demos1.infovillage.net/bhavana/frontend/Events%20web/index.html
+#Demo of events page 
+http://demos1.infovillage.net/bhavana/frontend/Events%20web/index.html
 
 This GitHub repository contains the frontend development code for an engaging events website. The website provides visitors with information about various events, including details about event speakers, event registration, event sponsors, and contact information.
 
